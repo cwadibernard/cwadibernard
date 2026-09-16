@@ -13,7 +13,7 @@
 
 <p align="center">
   <b>I solve construction industry technology problems.</b><br>
-  The trades get specialized tooling last. I build what nobody sells them,<br>and move old workflows to new horizons.
+  The trades get specialized tooling last. I build what nobody sells them, and move old workflows to new horizons.
 </p>
 
 <br>
